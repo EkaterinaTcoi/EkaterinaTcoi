@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @EkaterinaTcoi
-- 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning Phyton 
-- 💞️ I’m looking to collaborate on something challenging
+- Hi, I’m @EkaterinaTcoi
+- I’m interested in Data Science 
 - 📫 How to reach me ekaterinatcoi17@gmail.com 
 
 <!---
